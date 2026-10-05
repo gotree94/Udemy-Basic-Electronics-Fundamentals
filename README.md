@@ -4,7 +4,7 @@
 
 ---
 
-## 1. 기본 정보
+### 1. 기본 정보
 
 | 항목 | 내용 |
 |---|---|
@@ -21,7 +21,7 @@
 | **총 구성** | 8개 섹션 · 108개 강의 · 총 20시간 55분 |
 | **난이도** | 입문 → 중급 (기초 지식 불필요) |
 
-### 강사 소개
+#### 강사 소개
 - 전자·통신 설계 엔지니어 (Electronics and Communication Design Engineer)
 - 핵심 Electronix/Electrical 및 Antenna/RF/Communication 분야 **15년 이상** 경력
 - Engineering Funda(교육 플랫폼) 및 Day Dream Software 대표이사
@@ -29,7 +29,7 @@
 
 ---
 
-## 2. 수강 대상 (Who this course is for)
+### 2. 수강 대상 (Who this course is for)
 
 - 공학(Engineering)·디플마(Diploma)·과학(Science) 과정 학생
 - **Embedded Systems, VLSI, Instrumentation** 등 분야로 진입하려는 학습자
@@ -40,7 +40,7 @@
 
 ---
 
-## 3. 학습 목표 (What you'll learn)
+### 3. 학습 목표 (What you'll learn)
 
 수료 시 달성 가능한 역량 7가지:
 
@@ -54,7 +54,7 @@
 
 ---
 
-## 4. 선행 조건 (Requirements)
+### 4. 선행 조건 (Requirements)
 
 > **No Prior knowledge is needed. You will learn step by step from basic.**
 
@@ -66,9 +66,9 @@
 
 ---
 
-## 5. 전체 커리큘럼 (8 Sections · 108 Lectures · 20h 55m)
+### 5. 전체 커리큘럼 (8 Sections · 108 Lectures · 20h 55m)
 
-### 📘 Section 1. Fundamentals of Electronics Course Introduction
+#### 📘 Section 1. Fundamentals of Electronics Course Introduction
 *3 lectures • 4min*
 
 | # | 강의명 | 길이 |
@@ -81,7 +81,7 @@
 
 ---
 
-### 📗 Section 2. PN Junction Diode Application in Electronics
+#### 📗 Section 2. PN Junction Diode Application in Electronics
 *31 lectures • 5hr 21min — 본 강좌의 최대 단원*
 
 | # | 강의명 | 길이 |
@@ -131,7 +131,7 @@
 
 ---
 
-### 📕 Section 3. Special Diode in Electronics
+#### 📕 Section 3. Special Diode in Electronics
 *12 lectures • 2hr 46min*
 
 | # | 강의명 | 길이 |
@@ -159,7 +159,7 @@
 
 ---
 
-### 📙 Section 4. BJT (Bipolar Junction Transistor) Basics and its Applications in Electronics
+#### 📙 Section 4. BJT (Bipolar Junction Transistor) Basics and its Applications in Electronics
 *18 lectures • 3hr 40min*
 
 | # | 강의명 | 길이 |
@@ -195,7 +195,7 @@
 
 ---
 
-### 📓 Section 5. AC Analysis of BJT in Electronics
+#### 📓 Section 5. AC Analysis of BJT in Electronics
 *12 lectures • 2hr 38min*
 
 | # | 강의명 | 길이 |
@@ -223,7 +223,7 @@
 
 ---
 
-### 📒 Section 6. JFET (Junction Field Effect Transistor) in Electronics
+#### 📒 Section 6. JFET (Junction Field Effect Transistor) in Electronics
 *6 lectures • 1hr 5min*
 
 | # | 강의명 | 길이 |
@@ -244,7 +244,7 @@
 
 ---
 
-### 📓 Section 7. MOSFET Transistor in Electronics
+#### 📓 Section 7. MOSFET Transistor in Electronics
 *14 lectures • 3hr 35min*
 
 | # | 강의명 | 길이 |
@@ -275,7 +275,7 @@
 
 ---
 
-### 💻 Section 8. Practical Session on Multisim Software
+#### 💻 Section 8. Practical Session on Multisim Software
 *12 lectures • 1hr 46min — 실습 전용 섹션*
 
 | # | 강의명 | 길이 |
@@ -302,7 +302,7 @@
 
 ---
 
-## 6. 강좌 설명 요약 (Description)
+### 6. 강좌 설명 요약 (Description)
 
 본 강좌는 **Fundamentals of Electronics** 분야 기초부터 고급까지의 시험/학습을 준비하는 학생과 실무자를 위해 설계되었습니다. **Embedded Systems, VLSI, Instrumentation** 등 분야로 진입하기 위한 토대 형성용 강좌이며, 대학교 syllabus의 거의 전 범위를 커버합니다.
 
@@ -351,9 +351,9 @@
 
 ---
 
-## 8. 강좌 평가 및 특징
+### 8. 강좌 평가 및 특징
 
-### 장점
+#### 장점
 - **커버리지가 넓음**: 다이오드 → BJT → JFET → MOSFET 전체 3단자 소자를 하나의 흐름으로 연결
 - **이론 + 실습 통합**: 8번째 섹션에서 Multisim 시뮬레이션으로 12개 실습 제공
 - **단계적 난이도 상승**: 기초 물성부터 AC 해석·소신호 모델·IC 기술까지
@@ -362,7 +362,7 @@
 - **예제 강좌 다수**: BJT 바이어스 6개, MOSFET 7개, 다이오드 5개 등 문제 풀이 병행
 - 최신 갱신 (2026년 2월)으로 현행 과목 체계 반영
 
-### 주의할 점
+#### 주의할 점
 - 강좌 언어: **영어** (한국어 자막/음성 없음)
 - 영상 108개, 총 20시간 55분 분량으로 **상당한 시간 투자 필요**
 - 이론 중심 + 시뮬레이터 실습 위주 (실제 breadboard 하드웨어 실험은 포함하지 않음)
@@ -371,7 +371,7 @@
 
 ---
 
-## 9. 유사 강좌 비교 참고
+### 9. 유사 강좌 비교 참고
 
 | 강좌 | 특징 |
 |---|---|
@@ -384,7 +384,7 @@
 
 ---
 
-## 10. 링크 요약
+### 10. 링크 요약
 
 - 강좌 메인: https://www.udemy.com/course/foundations-of-electronics-diodes-bjt-jfet-mosfet
 - 카테고리: https://www.udemy.com/topic/electronics
