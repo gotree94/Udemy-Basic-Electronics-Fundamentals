@@ -9,7 +9,7 @@
 | 항목 | 내용 |
 |---|---|
 | **강좌명** | Basic Electronics Fundamentals: Diodes, BJT, JFET & MOSFET |
-| **부제** | Electronics Unplugged: Expert-led learning on Diodes, BJT, JFET, MOSFET — Followed by Hands-on Multisim Simulator Practice |
+| **부제** | Electronics Unplugged: Expert-led learning on Diodes, BJT, JFET, MOSFET <br>— Followed by Hands-on Multisim Simulator Practice |
 | **강좌 URL** | https://www.udemy.com/course/foundations-of-electronics-diodes-bjt-jfet-mosfet |
 | **강사** | Prof. Hitesh Dholakiya (CEO of Engineering Funda & Day Dream Software) |
 | **최종 업데이트** | 2026년 2월 |
